@@ -1,0 +1,9 @@
+#Pour les Logs
+logs
+*.log
+
+#Pour les modules
+node_modules
+_w_dvt_
+dist
+_dev_2018
